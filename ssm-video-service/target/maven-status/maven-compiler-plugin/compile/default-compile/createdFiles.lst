@@ -1,0 +1,12 @@
+com\wm\video\service\impl\CourseServiceImpl.class
+com\wm\video\service\UserService.class
+com\wm\video\service\AdminService.class
+com\wm\video\service\impl\UserServiceImpl.class
+com\wm\video\service\SubjectService.class
+com\wm\video\service\impl\SpeakerServiceImpl.class
+com\wm\video\service\impl\SubjectServiceImpl.class
+com\wm\video\service\CourseService.class
+com\wm\video\service\SpeakerService.class
+com\wm\video\service\impl\VideoServiceImpl.class
+com\wm\video\service\VideoService.class
+com\wm\video\service\impl\AdminServiceImpl.class

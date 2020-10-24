@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm-video-dao/ssm-video-dao.iml" filepath="$PROJECT_DIR$/ssm-video-dao/ssm-video-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssm-video-parent.iml" filepath="$PROJECT_DIR$/.idea/ssm-video-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-video-service/ssm-video-service.iml" filepath="$PROJECT_DIR$/ssm-video-service/ssm-video-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-video-utils/ssm-video-utils.iml" filepath="$PROJECT_DIR$/ssm-video-utils/ssm-video-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-video-web/ssm-video-web.iml" filepath="$PROJECT_DIR$/ssm-video-web/ssm-video-web.iml" />
+    </modules>
+  </component>
+</project>

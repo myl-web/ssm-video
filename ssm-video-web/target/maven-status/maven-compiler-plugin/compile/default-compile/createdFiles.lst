@@ -1,0 +1,6 @@
+com\wm\video\controller\SpeakerController.class
+com\wm\video\controller\AdminController.class
+com\wm\video\controller\CourseController.class
+com\wm\video\controller\SubjectController.class
+com\wm\video\controller\UserController.class
+com\wm\video\controller\VideoController.class
